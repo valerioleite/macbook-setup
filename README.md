@@ -1,7 +1,7 @@
 ## Install apps
 #### Homebrew
 ```
-https://brew.sh
+<https://brew.sh>
 ```
 #### Git
 ```
@@ -10,7 +10,7 @@ brew install git
 
 #### Oh My ZSH
 ```
-https://ohmyz.sh/#install
+<https://ohmyz.sh/#install>
 ```
 
 ## Setup
