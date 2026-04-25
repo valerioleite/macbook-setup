@@ -15,3 +15,11 @@ brew install git
 ```
 defaults write com.apple.dock autohide-delay -float 0; killall Dock
 ```
+
+### Git SSH
+
+#### Generate ssh with terminal
+```
+ssh-keygen -t ed25519 -C "valeriobleite@gmail.com"
+```
+
