@@ -1,0 +1,11 @@
+[user]
+	name = Valério Leite
+	email = valeriobleite@gmail.com
+[init]
+  defaultBranch = main
+[color]
+  ui = auto
+  diff = auto
+  status = auto
+  branch = auto
+  interactive = auto
